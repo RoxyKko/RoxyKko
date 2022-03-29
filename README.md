@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoxyKko
 - 👀 I’m interested in MCU
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning MCU,python,c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
