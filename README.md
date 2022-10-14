@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 
 正在学习Python、PyQt5、Arduino开发ESP32和STM32CubeIDE开发STM32F407ZGT6、STM32H743IIT6
+现在在学Zynq 和 linux
+
 
 <!---
 RoxyKko/RoxyKko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
