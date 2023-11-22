@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoxyKko
 - 🌱 我目前正在学习 MCU,python,c++，freeRTOS
 - 💞️ 我正在寻找合作...
-- 📫 想要赚高薪米
+- 📫 想要有好的工作与生活
 
 正在学习Python、PyQt5、Arduino开发ESP32和STM32CubeIDE开发STM32F407ZGT6、STM32H743IIT6，现在在学Zynq 和 linux
 
